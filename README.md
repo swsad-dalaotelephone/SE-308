@@ -1,5 +1,10 @@
 # SE-308 作业提交
 
+---
+
+欢迎访问文档展示页面：[https://swsad-dalaotelephone.github.io/SE-308/](https://swsad-dalaotelephone.github.io/SE-308/)
+
+---
 
 
 本仓库为中山大学 2016 级软件工程，2019春季学期 **软件工程综合实践课程** SE-308 的作业文档提交。使用的课程作业是2019年春季学期的 **系统分析与设计课程** 的课程大作业 [包包赚校园众包平台](<https://swsad-dalaotelephone.github.io/docs/>)。
