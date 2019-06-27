@@ -17,7 +17,7 @@
 
 1. [安装包与安装部署说明](安装包与安装部署说明.md)
 2. [用户手册](用户手册.md)
-3. 所有源代码(**TODO: final tag**)
+3. 所有源代码
    1. [微信小程序众包系统前端](https://github.com/swsad-dalaotelephone/miniProgram)
    3. [服务端+后台+数据库](https://github.com/swsad-dalaotelephone/Server)
 4. [软件需求规格说明书(SRS)](软件需求规格说明书.md)
